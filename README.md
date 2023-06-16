@@ -1,6 +1,6 @@
 # WHAM-prototype  
 ## What is WHAM ?  
-WHAM is a metaverse inspired online store where people can have immersive shopping experince from the comfort of their homes.  
+WHAM is a metaverse inspired online store where people can have immersive shopping experience from the comfort of their homes.  
   
 ## How does it work? Is it safe?  
 As of now it simply provides a 3d store to products already available on Amazon and transactions occur over amazon's own site  
