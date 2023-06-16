@@ -1,2 +1,2 @@
 # WHAM-prototype
-What is WHAM ? and why does it matter?
+What is WHAM ? and Why does it matter?
