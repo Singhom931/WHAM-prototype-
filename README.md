@@ -13,5 +13,5 @@ First 2 Prototypes are Currently Available for u to Try and Test Out
 This build focuses on implementing the functionality needed for it to work without caring about the overall aesthetics , immersivness and performance
 ### 2.Aesthetic Prototype
 This build focuses on implementing the aesthetics needed for the shop to feel visually immersive and fun to explore while also optimising the 3D enviornment 
-### 3.Compact Prototype(Not Out Yet)
+### 3.Compact Prototype
 This build focuses on making the project compact and optimised to run on anything like a browser/phone and providing more crossplatform support
