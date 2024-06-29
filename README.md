@@ -8,7 +8,7 @@ All WHAM aims to do is provide a 3d environment for shopping
   
 ## Where can I try it?  
 Wham is being Developed in 3 Parts these will be merged into one when the alpha builds come out  
-First 2 Prototypes are Currently Available for u to Try and Test Out  
+These are Currently Available for you to Try and Test Out  
 ### 1.Functional Prototype  
 This build focuses on implementing the functionality needed for it to work without caring about the overall aesthetics , immersivness and performance
 ### 2.Aesthetic Prototype
